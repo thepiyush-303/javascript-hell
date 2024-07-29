@@ -1,0 +1,13 @@
+div{
+    background-color: aquamarine;
+    height: 300px;
+    width: 150px;
+    border-style: solid black;
+    margin: 5px;
+}
+.class1{
+    background-color: orange;
+}
+.class2{
+    background-color: purple; 
+}

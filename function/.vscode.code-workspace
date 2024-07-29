@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "../../../.vscode"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../C language full course"
+		},
+		{
+			"path": "../../../DSA"
+		},
+		{
+			"path": "../../../IT-workshop"
+		},
+		{
+			"path": "../../../leetcode"
+		},
+		{
+			"path": "../../../New folder"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"new": "cpp",
+			"iostream": "cpp",
+			"*.tcc": "cpp"
+		}
+	}
+}

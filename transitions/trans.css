@@ -1,0 +1,34 @@
+*{
+    /* text-align: center; */
+    display: flex;
+    justify-content: center;
+}
+.box{
+    height: 300px;
+    width: 500px;
+    margin: 50px;
+    background-color:khaki;
+    border: 4px solid purple;
+    transition-property: all;
+    transition-duration: 1.2s;
+    transition-timing-function: ease;
+    transition-delay: 1ms;
+    
+}
+div:hover{
+    background-color: pink;
+    font-size: 2rem;
+    color: darkmagenta;
+    border: 4px solid green;
+    transform: scaleX(1.3);
+    transform: rotate(5deg);
+    /* transform:translate(20px,50px);  */
+    /* translate krne pr rotate or scale ke property nhi bachte */
+    transform: translate(100px);
+    transform: skew(6deg);
+    /* skew krne se translate ke property khatam ho jate ha*/
+    
+}
+div:active{
+    background-color: red;
+}
